@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1691837078 source:c:\users\user\desktop\sda-cautarebinara\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1691837242 source:c:\users\user\desktop\sda-tot\sortari,cautarebinara\sda-cautarebinara\main.c
+	<stdio.h>
+	<stdlib.h>
+
